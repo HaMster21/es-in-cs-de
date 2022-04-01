@@ -1,0 +1,12 @@
+using Xunit;
+
+namespace SharpEventsTest;
+
+public class UnitTest1
+{
+    [Fact]
+    public void Test1()
+    {
+
+    }
+}
